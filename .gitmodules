@@ -1,6 +1,6 @@
 [submodule "vendor/php-activerecord"]
 	path = vendor/php-activerecord
-	url = https://Tieno@github.com/Tieno/php-activerecord.git
+	url = git://github.com/cstrap/php-activerecord.git
 [submodule "vendor/Slim"]
 	path = vendor/Slim
 	url = git://github.com/codeguy/Slim.git
@@ -9,4 +9,4 @@
 	url = git://github.com/fabpot/Twig.git
 [submodule "vendor/Slim-Extras"]
 	path = vendor/Slim-Extras
-	url = git://github.com/Tieno/Slim-Extras.git
+	url = git://github.com/cstrap/Slim-Extras.git
